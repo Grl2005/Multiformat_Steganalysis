@@ -1,0 +1,7 @@
+
+streamlit
+numpy
+Pillow
+python-docx
+PyPDF2
+reportlab

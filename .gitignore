@@ -1,0 +1,35 @@
+
+# Test images
+background.jpg
+flower.jpg
+green.jpg
+nature.png
+flower_en.png
+
+# Text test files
+msg.txt
+
+# Project reports and unrelated documents
+*.docx
+*.pdf
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter files
+.ipynb_checkpoints/
+*.ipynb
+
+# Mac system files
+.DS_Store
+
+# Environment variables and secrets
+.env
+green_enc.png
+msg_enc.txt
+nature_enc.png
